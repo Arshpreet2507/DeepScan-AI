@@ -1,0 +1,12 @@
+tfenv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/
+backend/temp_uploads/
+temp_uploads/
+frontend/temp_video.mp4
+
+*.h5
+*.keras
