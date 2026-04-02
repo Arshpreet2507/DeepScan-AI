@@ -10,3 +10,5 @@ frontend/temp_video.mp4
 
 *.h5
 *.keras
+*.dll
+*.pyd
